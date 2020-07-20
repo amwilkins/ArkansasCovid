@@ -2,7 +2,7 @@
 Pulls api data and uploads to google sheets.
 
 
-arc_api.py pulls data from the Arkansas ArcGis REST API/
+arc_api.py pulls data from the Arkansas ArcGis REST API.
 
 
 
